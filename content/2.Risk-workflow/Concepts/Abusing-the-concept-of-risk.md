@@ -6,7 +6,7 @@ The reason is I find that RISK is a sufficiently broad concept that can encompas
 
 I know that there are many, more formal definitions of RISK and all its sub-categories that could be used, but it is most important that in the real world we keep things simple, and avoid a proliferation of unnecessary terms.
 
-Fundamentally, my definition of RISK is based on the concept of 'behaviours' and 'side-effects of code' (whether intentional or not). The key is to map reality and what is possible.
+Fundamentally, my definition of RISK is based on the concept of 'behaviors' and 'side-effects of code' (whether intentional or not). The key is to map reality and what is possible.
 
 RISKs can also be used in multi-dimensional analysis, where multiple paths can be analysed, each with a specific set of RISKs (depending on the chosen implementation).
 
