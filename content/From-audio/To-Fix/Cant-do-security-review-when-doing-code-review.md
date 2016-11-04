@@ -1,6 +1,6 @@
 ### Can't do Security Analysis when doing Code Review
 
-One lesson I have learned is that the mindset and the focus that you have when doing security reviews are very different than when you work on normal feature and code analysis.
+One lesson I have learned is that the mindset and the focus that you have when you do security reviews are very different than when you work on normal feature and code analysis.
 
 This is very important because as you accelerate in the DevOps world, it means that you start to ship code much faster, which in turn means that code hits production much faster.  Logically, this means that vulnerabilities also hit production much faster.
 
